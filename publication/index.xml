@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Amrei Stammann</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Research</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Interactive Fixed Effects, Missing Data, and Inference</title>
+      <link>/publication/preprint/interactivefe/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/interactivefe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Worth the pain? Firms&#39; exporting behaviour to countries under sanctions</title>
+      <link>/publication/preprint/sanctions/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/sanctions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persistent Zeros: The Extensive Margin of Trade</title>
+      <link>/publication/preprint/extensive/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/extensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binary Choice Models with High-Dimensional Individual and Time Fixed Effects</title>
+      <link>/publication/preprint/twowayfe/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/twowayfe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and Feasible Estimation of Generalized Linear Models with High-Dimensional k-way Fixed Effects</title>
+      <link>/publication/preprint/glmkway/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/glmkway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Fixed Effects Logit Models with Large Panel Data</title>
+      <link>/publication/preprint/logit/</link>
+      <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/logit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

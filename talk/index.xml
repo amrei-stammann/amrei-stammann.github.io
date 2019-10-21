@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software | Amrei Stammann</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Software</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>alpaca: Fit GLM&#39;s with High-Dimensional k-Way Fixed Effects</title>
+      <link>/talk/alpaca/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/alpaca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bife: Binary Choice Models with Fixed Effects</title>
+      <link>/talk/bife/</link>
+      <pubDate>Fri, 29 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/bife/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

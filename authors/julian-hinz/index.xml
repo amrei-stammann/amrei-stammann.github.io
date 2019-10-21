@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julian Hinz | Amrei Stammann</title>
+    <link>/authors/julian-hinz/</link>
+      <atom:link href="/authors/julian-hinz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julian Hinz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Julian Hinz</title>
+      <link>/authors/julian-hinz/</link>
+    </image>
+    
+    <item>
+      <title>Worth the pain? Firms&#39; exporting behaviour to countries under sanctions</title>
+      <link>/publication/preprint/sanctions/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/sanctions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persistent Zeros: The Extensive Margin of Trade</title>
+      <link>/publication/preprint/extensive/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/extensive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
