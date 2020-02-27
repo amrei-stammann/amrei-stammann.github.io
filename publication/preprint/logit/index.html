@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="For the parametric estimation of logit models with individual time-invariant effects the conditional and unconditional fixed effects maximum likelihood estimators exist. The conditional fixed effects logit (CL) estimator is consistent but it has the drawback that it does not deliver estimates of the fixed effects or marginal effects. It is also computationally costly if the number of observations per individual T is large. The unconditional fixed effects logit estimator (UCL) can be estimated by including a dummy variable for each individual (DVL). It suffers from the incidental parameters problem which causes severe biases for small T. Another problem is that with a large number of individuals N, the computational costs of the DVL estimator can be prohibitive. We suggest a pseudo-demeaning algorithm in spirit of Greene (2004) and Chamberlain (1980) that delivers the identical results as the DVL estimator without its computational burden for large N. We also discuss how to correct for the incidental parameters bias of parameters and marginal effects. Monte-Carlo evidence suggests that the bias-corrected estimator has similar properties as the CL estimator in terms of parameter estimation. Its computational burden is much lower than the CL or the DVL estimators, especially with large N and/or T.">
+  <meta name="description" content="We discuss different estimators for logistic regression models with individual fixed effects and tackle their short-comings. A simple unconditional maximum likelihood estimator (UCL) that uses a dummy variable for each of the N cross-sectional units suffers from prohibitive computational costs if N is large. Further, it can be severely biased due to the incidental parameter problem (IPP). Using the Frisch-Waugh-Lovell theorem we derive an intuitive and computationally efficient algorithm which can be easily combined with existing bias corrections to address the IPP. The popular conditional logit estimator (CL) is fixed T consistent, but it exhibits an enormous computational burden if T is large. We therefore propose a new conditional logit estimator that alleviates the computational burden of CL at costs of efficiency. Since conditional logit estimators do not allow to estimate average partial effects, we propose a novel hybrid approach. Extensive Monte-Carlo simulations confirm that the bias-corrected UCL estimator (BCL) and CL have similar statistical properties. However, combined with the pseudo-demeaning algorithm, UCL and BCL have a much lower computational burden, especially with large T. The algorithm is implemented in the R package bife.">
 
   
   <link rel="alternate" hreflang="en-us" href="/publication/preprint/logit/">
@@ -114,7 +114,7 @@
   <meta property="og:site_name" content="Amrei Stammann">
   <meta property="og:url" content="/publication/preprint/logit/">
   <meta property="og:title" content="Estimating Fixed Effects Logit Models with Large Panel Data | Amrei Stammann">
-  <meta property="og:description" content="For the parametric estimation of logit models with individual time-invariant effects the conditional and unconditional fixed effects maximum likelihood estimators exist. The conditional fixed effects logit (CL) estimator is consistent but it has the drawback that it does not deliver estimates of the fixed effects or marginal effects. It is also computationally costly if the number of observations per individual T is large. The unconditional fixed effects logit estimator (UCL) can be estimated by including a dummy variable for each individual (DVL). It suffers from the incidental parameters problem which causes severe biases for small T. Another problem is that with a large number of individuals N, the computational costs of the DVL estimator can be prohibitive. We suggest a pseudo-demeaning algorithm in spirit of Greene (2004) and Chamberlain (1980) that delivers the identical results as the DVL estimator without its computational burden for large N. We also discuss how to correct for the incidental parameters bias of parameters and marginal effects. Monte-Carlo evidence suggests that the bias-corrected estimator has similar properties as the CL estimator in terms of parameter estimation. Its computational burden is much lower than the CL or the DVL estimators, especially with large N and/or T."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:description" content="We discuss different estimators for logistic regression models with individual fixed effects and tackle their short-comings. A simple unconditional maximum likelihood estimator (UCL) that uses a dummy variable for each of the N cross-sectional units suffers from prohibitive computational costs if N is large. Further, it can be severely biased due to the incidental parameter problem (IPP). Using the Frisch-Waugh-Lovell theorem we derive an intuitive and computationally efficient algorithm which can be easily combined with existing bias corrections to address the IPP. The popular conditional logit estimator (CL) is fixed T consistent, but it exhibits an enormous computational burden if T is large. We therefore propose a new conditional logit estimator that alleviates the computational burden of CL at costs of efficiency. Since conditional logit estimators do not allow to estimate average partial effects, we propose a novel hybrid approach. Extensive Monte-Carlo simulations confirm that the bias-corrected UCL estimator (BCL) and CL have similar statistical properties. However, combined with the pseudo-demeaning algorithm, UCL and BCL have a much lower computational burden, especially with large T. The algorithm is implemented in the R package bife."><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
@@ -164,7 +164,7 @@
       "url": "/img/icon-512.png"
     }
   },
-  "description": "For the parametric estimation of logit models with individual time-invariant effects the conditional and unconditional fixed effects maximum likelihood estimators exist. The conditional fixed effects logit (CL) estimator is consistent but it has the drawback that it does not deliver estimates of the fixed effects or marginal effects. It is also computationally costly if the number of observations per individual T is large. The unconditional fixed effects logit estimator (UCL) can be estimated by including a dummy variable for each individual (DVL). It suffers from the incidental parameters problem which causes severe biases for small T. Another problem is that with a large number of individuals N, the computational costs of the DVL estimator can be prohibitive. We suggest a pseudo-demeaning algorithm in spirit of Greene (2004) and Chamberlain (1980) that delivers the identical results as the DVL estimator without its computational burden for large N. We also discuss how to correct for the incidental parameters bias of parameters and marginal effects. Monte-Carlo evidence suggests that the bias-corrected estimator has similar properties as the CL estimator in terms of parameter estimation. Its computational burden is much lower than the CL or the DVL estimators, especially with large N and/or T."
+  "description": "We discuss different estimators for logistic regression models with individual fixed effects and tackle their short-comings. A simple unconditional maximum likelihood estimator (UCL) that uses a dummy variable for each of the N cross-sectional units suffers from prohibitive computational costs if N is large. Further, it can be severely biased due to the incidental parameter problem (IPP). Using the Frisch-Waugh-Lovell theorem we derive an intuitive and computationally efficient algorithm which can be easily combined with existing bias corrections to address the IPP. The popular conditional logit estimator (CL) is fixed T consistent, but it exhibits an enormous computational burden if T is large. We therefore propose a new conditional logit estimator that alleviates the computational burden of CL at costs of efficiency. Since conditional logit estimators do not allow to estimate average partial effects, we propose a novel hybrid approach. Extensive Monte-Carlo simulations confirm that the bias-corrected UCL estimator (BCL) and CL have similar statistical properties. However, combined with the pseudo-demeaning algorithm, UCL and BCL have a much lower computational burden, especially with large T. The algorithm is implemented in the R package bife."
 }
 </script>
 
@@ -416,7 +416,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.econstor.eu/handle/10419/145837" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/amrei-stammann/Working-Papers/blob/master/paper_felogit.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -448,7 +448,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">For the parametric estimation of logit models with individual time-invariant effects the conditional and unconditional fixed effects maximum likelihood estimators exist. The conditional fixed effects logit (CL) estimator is consistent but it has the drawback that it does not deliver estimates of the fixed effects or marginal effects. It is also computationally costly if the number of observations per individual T is large. The unconditional fixed effects logit estimator (UCL) can be estimated by including a dummy variable for each individual (DVL). It suffers from the incidental parameters problem which causes severe biases for small T. Another problem is that with a large number of individuals N, the computational costs of the DVL estimator can be prohibitive. We suggest a pseudo-demeaning algorithm in spirit of Greene (2004) and Chamberlain (1980) that delivers the identical results as the DVL estimator without its computational burden for large N. We also discuss how to correct for the incidental parameters bias of parameters and marginal effects. Monte-Carlo evidence suggests that the bias-corrected estimator has similar properties as the CL estimator in terms of parameter estimation. Its computational burden is much lower than the CL or the DVL estimators, especially with large N and/or T.</p>
+    <p class="pub-abstract">We discuss different estimators for logistic regression models with individual fixed effects and tackle their short-comings. A simple unconditional maximum likelihood estimator (UCL) that uses a dummy variable for each of the N cross-sectional units suffers from prohibitive computational costs if N is large. Further, it can be severely biased due to the incidental parameter problem (IPP). Using the Frisch-Waugh-Lovell theorem we derive an intuitive and computationally efficient algorithm which can be easily combined with existing bias corrections to address the IPP. The popular conditional logit estimator (CL) is fixed T consistent, but it exhibits an enormous computational burden if T is large. We therefore propose a new conditional logit estimator that alleviates the computational burden of CL at costs of efficiency. Since conditional logit estimators do not allow to estimate average partial effects, we propose a novel hybrid approach. Extensive Monte-Carlo simulations confirm that the bias-corrected UCL estimator (BCL) and CL have similar statistical properties. However, combined with the pseudo-demeaning algorithm, UCL and BCL have a much lower computational burden, especially with large T. The algorithm is implemented in the R package bife.</p>
     
 
     
@@ -587,7 +587,7 @@
 
     <div class="media-body">
       <h5 class="card-title"><a href="/">Amrei Stammann</a></h5>
-      <h6 class="card-subtitle">PhD Student in Economics</h6>
+      <h6 class="card-subtitle">Post-Doctoral Researcher in Economics</h6>
       
       <ul class="network-icon" aria-hidden="true">
   
@@ -752,6 +752,16 @@
   
   <div class="container">
     <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/terms/">Terms</a>
+    
+  </p>
   
 
   <p class="powered-by">
