@@ -5,7 +5,7 @@
     <link>/authors/daniel-czarnowske/</link>
       <atom:link href="/authors/daniel-czarnowske/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Czarnowske</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Daniel Czarnowske</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Interactive Fixed Effects, Missing Data, and Inference</title>
+      <title>Inference in Unbalanced Panel Data Models with Interactive Fixed Effects</title>
       <link>/publication/preprint/interactivefe/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/publication/preprint/interactivefe/</guid>
       <description></description>
     </item>

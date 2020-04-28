@@ -5,7 +5,7 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Amrei Stammann</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Amrei Stammann</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
-      <title>Interactive Fixed Effects, Missing Data, and Inference</title>
+      <title>State Dependence and Unobserved Heterogeneity in the Extensive Margin of Trade</title>
+      <link>/publication/preprint/extensive/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/extensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inference in Unbalanced Panel Data Models with Interactive Fixed Effects</title>
       <link>/publication/preprint/interactivefe/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/publication/preprint/interactivefe/</guid>
       <description></description>
     </item>
@@ -25,14 +33,6 @@
       <link>/publication/preprint/sanctions/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/publication/preprint/sanctions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Persistent Zeros: The Extensive Margin of Trade</title>
-      <link>/publication/preprint/extensive/</link>
-      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/extensive/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,24 +15,16 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;My current research mainly focuses on panel data econometrics (interactive and high-dimensional fixed effects). I also have a passion for scientific software development.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Daniel Czarnowske</title>
-      <link>/authors/daniel-czarnowske/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/daniel-czarnowske/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Joschka Wanner</title>
       <link>/authors/joschka-wanner/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/authors/joschka-wanner/</guid>
       <description></description>
     </item>
@@ -40,8 +32,16 @@
     <item>
       <title>Julian Hinz</title>
       <link>/authors/julian-hinz/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/authors/julian-hinz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Czarnowske</title>
+      <link>/authors/daniel-czarnowske/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-czarnowske/</guid>
       <description></description>
     </item>
     
