@@ -2,95 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amrei Stammann</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://amrei-stammann.github.io/</link>
+      <atom:link href="https://amrei-stammann.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Amrei Stammann</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://amrei-stammann.github.io/img/icon-192.png</url>
       <title>Amrei Stammann</title>
-      <link>/</link>
+      <link>https://amrei-stammann.github.io/</link>
     </image>
     
     <item>
       <title>Worth the pain? Firms&#39; exporting behaviour to countries under sanctions</title>
-      <link>/publication/preprint/sanctions/</link>
+      <link>https://amrei-stammann.github.io/publication/preprint/sanctions/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/sanctions/</guid>
+      <guid>https://amrei-stammann.github.io/publication/preprint/sanctions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>State Dependence and Unobserved Heterogeneity in the Extensive Margin of Trade</title>
-      <link>/publication/preprint/extensive/</link>
+      <link>https://amrei-stammann.github.io/publication/preprint/extensive/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/extensive/</guid>
+      <guid>https://amrei-stammann.github.io/publication/preprint/extensive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inference in Unbalanced Panel Data Models with Interactive Fixed Effects</title>
-      <link>/publication/preprint/interactivefe/</link>
+      <link>https://amrei-stammann.github.io/publication/preprint/interactivefe/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/interactivefe/</guid>
+      <guid>https://amrei-stammann.github.io/publication/preprint/interactivefe/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Binary Choice Models with High-Dimensional Individual and Time Fixed Effects</title>
-      <link>/publication/preprint/twowayfe/</link>
+      <title>Fixed Effects Binary Choice Models: Estimation and Inference with Long Panels</title>
+      <link>https://amrei-stammann.github.io/publication/preprint/twowayfe/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/twowayfe/</guid>
+      <guid>https://amrei-stammann.github.io/publication/preprint/twowayfe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>alpaca: Fit GLM&#39;s with High-Dimensional k-Way Fixed Effects</title>
-      <link>/talk/alpaca/</link>
+      <link>https://amrei-stammann.github.io/talk/alpaca/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/talk/alpaca/</guid>
+      <guid>https://amrei-stammann.github.io/talk/alpaca/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Fast and Feasible Estimation of Generalized Linear Models with High-Dimensional k-way Fixed Effects</title>
-      <link>/publication/preprint/glmkway/</link>
+      <link>https://amrei-stammann.github.io/publication/preprint/glmkway/</link>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/glmkway/</guid>
+      <guid>https://amrei-stammann.github.io/publication/preprint/glmkway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimating Fixed Effects Logit Models with Large Panel Data</title>
-      <link>/publication/preprint/logit/</link>
+      <link>https://amrei-stammann.github.io/publication/preprint/logit/</link>
       <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/logit/</guid>
+      <guid>https://amrei-stammann.github.io/publication/preprint/logit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bife: Binary Choice Models with Fixed Effects</title>
-      <link>/talk/bife/</link>
+      <link>https://amrei-stammann.github.io/talk/bife/</link>
       <pubDate>Fri, 29 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/talk/bife/</guid>
+      <guid>https://amrei-stammann.github.io/talk/bife/</guid>
       <description></description>
     </item>
     

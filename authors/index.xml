@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Amrei Stammann</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://amrei-stammann.github.io/authors/</link>
+      <atom:link href="https://amrei-stammann.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://amrei-stammann.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://amrei-stammann.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://amrei-stammann.github.io/authors/admin/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;My research is at the intersection of theory and its application in the field of panel data econometrics. Currently I am working on the application of new panel data methods in international trade. I also have a passion for scientific software development.&lt;/p&gt;
+      <guid>https://amrei-stammann.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;My research is at the intersection of theory and its application in the field of panel data econometrics. I work on the application and extension of new panel data methods, e.g. in international trade. I also have a passion for scientific software development.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Joschka Wanner</title>
-      <link>/authors/joschka-wanner/</link>
+      <link>https://amrei-stammann.github.io/authors/joschka-wanner/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/joschka-wanner/</guid>
+      <guid>https://amrei-stammann.github.io/authors/joschka-wanner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Julian Hinz</title>
-      <link>/authors/julian-hinz/</link>
+      <link>https://amrei-stammann.github.io/authors/julian-hinz/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/julian-hinz/</guid>
+      <guid>https://amrei-stammann.github.io/authors/julian-hinz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matthieu Crozet</title>
-      <link>/authors/matthieu-crozet/</link>
+      <link>https://amrei-stammann.github.io/authors/matthieu-crozet/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/matthieu-crozet/</guid>
+      <guid>https://amrei-stammann.github.io/authors/matthieu-crozet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daniel Czarnowske</title>
-      <link>/authors/daniel-czarnowske/</link>
+      <link>https://amrei-stammann.github.io/authors/daniel-czarnowske/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/daniel-czarnowske/</guid>
+      <guid>https://amrei-stammann.github.io/authors/daniel-czarnowske/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daniel McFadden</title>
-      <link>/authors/daniel-mcfadden/</link>
+      <link>https://amrei-stammann.github.io/authors/daniel-mcfadden/</link>
       <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/daniel-mcfadden/</guid>
+      <guid>https://amrei-stammann.github.io/authors/daniel-mcfadden/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Florian Heiss</title>
-      <link>/authors/florian-heiss/</link>
+      <link>https://amrei-stammann.github.io/authors/florian-heiss/</link>
       <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/florian-heiss/</guid>
+      <guid>https://amrei-stammann.github.io/authors/florian-heiss/</guid>
       <description></description>
     </item>
     

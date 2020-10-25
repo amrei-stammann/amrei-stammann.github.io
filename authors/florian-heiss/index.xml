@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Florian Heiss | Amrei Stammann</title>
-    <link>/authors/florian-heiss/</link>
-      <atom:link href="/authors/florian-heiss/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://amrei-stammann.github.io/authors/florian-heiss/</link>
+      <atom:link href="https://amrei-stammann.github.io/authors/florian-heiss/index.xml" rel="self" type="application/rss+xml" />
     <description>Florian Heiss</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Aug 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://amrei-stammann.github.io/img/icon-192.png</url>
       <title>Florian Heiss</title>
-      <link>/authors/florian-heiss/</link>
+      <link>https://amrei-stammann.github.io/authors/florian-heiss/</link>
     </image>
     
     <item>
       <title>Estimating Fixed Effects Logit Models with Large Panel Data</title>
-      <link>/publication/preprint/logit/</link>
+      <link>https://amrei-stammann.github.io/publication/preprint/logit/</link>
       <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/logit/</guid>
+      <guid>https://amrei-stammann.github.io/publication/preprint/logit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bife: Binary Choice Models with Fixed Effects</title>
-      <link>/talk/bife/</link>
+      <link>https://amrei-stammann.github.io/talk/bife/</link>
       <pubDate>Fri, 29 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/talk/bife/</guid>
+      <guid>https://amrei-stammann.github.io/talk/bife/</guid>
       <description></description>
     </item>
     

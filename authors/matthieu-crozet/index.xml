@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matthieu Crozet | Amrei Stammann</title>
-    <link>/authors/matthieu-crozet/</link>
-      <atom:link href="/authors/matthieu-crozet/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://amrei-stammann.github.io/authors/matthieu-crozet/</link>
+      <atom:link href="https://amrei-stammann.github.io/authors/matthieu-crozet/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthieu Crozet</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://amrei-stammann.github.io/img/icon-192.png</url>
       <title>Matthieu Crozet</title>
-      <link>/authors/matthieu-crozet/</link>
+      <link>https://amrei-stammann.github.io/authors/matthieu-crozet/</link>
     </image>
     
     <item>
       <title>Worth the pain? Firms&#39; exporting behaviour to countries under sanctions</title>
-      <link>/publication/preprint/sanctions/</link>
+      <link>https://amrei-stammann.github.io/publication/preprint/sanctions/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/sanctions/</guid>
+      <guid>https://amrei-stammann.github.io/publication/preprint/sanctions/</guid>
       <description></description>
     </item>
     
