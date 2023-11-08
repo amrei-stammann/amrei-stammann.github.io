@@ -12,6 +12,8 @@ permalink: /research
 
 ### Working Papers
 
+"Debiased Fixed Effects Estimation of Binary Logit Models with Three-Dimensional Panel Data" ([Preprint](https://arxiv.org/abs/2311.04073))
+
 "State Dependence and Unobserved Heterogeneity in the Extensive Margin of Trade" with Julian Hinz and Joschka Wanner ([Preprint](https://arxiv.org/abs/2004.12655))
 
 "Inference in Unbalanced Panel Data Models with Interactive Fixed Effects" with Daniel Czarnowske ([Preprint](https://arxiv.org/abs/2004.03414))
@@ -24,11 +26,13 @@ permalink: /research
 
 ### Work in Progress
 
-"Latent Structures in Cross-Section Gravity Models" with Daniel Czarnowske
+"Distribution Regression with Fixed Effects and Weakly Exogenous Regressors" with Philip Berger and Daniel Czarnowske
+
+"Latent Structures in Directed Network Models: With an Application to Cross-Section Gravity Models" with Daniel Czarnowske
+
+"Estimation of Two-Way Fixed Effects Logit Models via GMM" with Cavit Pakel
 
 "On the Incidental Parameter Problem in Fractional Response Models with Fixed Effects"
-
-"Distribution Regression with Fixed Effects and Weakly Exogenous Regressors" with Philip Berger and Daniel Czarnowske
 
 ### Software 
 

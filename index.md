@@ -3,4 +3,8 @@ layout: page
 title:
 ---
 
-I am a post-doctoral researcher at Ruhr-University Bochum. I am an applied econometrician with a particular focus on panel and network data econometrics (especially non-linear models and fixed effects). A large part of my research focuses on developing new econometric methods for international trade.
+![My Image](assets/img/avatar.jpg){:height="300px" width="200px"}
+
+I am a postdoctoral researcher at the Ruhr-University Bochum. I will be available on the 2023/24 academic job market.
+
+I specialize in panel and network data econometrics. My previous work has advanced the computation of high-dimensional fixed effects estimators for non-linear panel data models. Moreover, I develop new econometric methods that are of particular interest for international trade. In my [jobmarket paper](https://arxiv.org/abs/2311.04073), I develop a debiased fixed effects estimator for binary logit models with three-dimensional panel data, where the model includes three sets of additive and overlapping unobserved effects.

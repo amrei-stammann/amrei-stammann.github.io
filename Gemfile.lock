@@ -84,6 +84,7 @@ PLATFORMS
 
 DEPENDENCIES
   lagrange!
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.4.1
