@@ -26,6 +26,12 @@ permalink: /research
 
 ### Work in Progress
 
+"Learning Outcomes and Perceptions: A Double Robust Approach to Assess the Effects of Flipping an
+Introductory Statistics Course" with Daniel Czarnowske, Florian Heiss, and Theresa Schmitz
+
+"(Debiased) Inference for Fixed Effects Estimators with Three-Dimensional Panel Data" with Daniel
+Czarnowske
+
 "Distribution Regression with Fixed Effects and Weakly Exogenous Regressors" with Philip Berger and Daniel Czarnowske
 
 "Latent Structures in Directed Network Models: With an Application to Cross-Section Gravity Models" with Daniel Czarnowske

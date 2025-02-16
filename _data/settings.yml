@@ -15,7 +15,7 @@ menu:
 social:
 - {icon: 'github',     link: 'https://www.github.com/amrei-stammann'}
 - {icon: 'hashtag',    link: 'https://x.com/AmreiStammann'}
-- {icon: 'envelope',   link: 'mailto:amrei.stammann@rub.de'}
+- {icon: 'envelope',   link: 'mailto:amrei.stammann@uni-bayreuth.de'}
 
 # Customize site text
 pagination:
